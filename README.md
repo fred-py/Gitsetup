@@ -1,2 +1,2 @@
-# Gitsetup
-Setting and testing Git - freecodecamp.org
+# Programatic SEO with Python & Pandas
+Data collection & analysis of top ranking pages under respective searchTerms.
